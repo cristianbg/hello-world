@@ -1,2 +1,2 @@
 # hello-world
-Resources and references
+This project contains resources and references
